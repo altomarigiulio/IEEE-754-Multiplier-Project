@@ -1,6 +1,8 @@
 # IEEE-754-Multiplier-Project
-This is a project made for @Polimi, for the Logic Networks course.
+This is a project made for Politecnico di Milano, for the Logic Networks course.
 
+In this project I've recreated the structure of a multiplier, following the IEEE 754 standard.
+The project has been developed and tested in Vivado, written in VHDL.
 ## To add:
 
 -- All components
