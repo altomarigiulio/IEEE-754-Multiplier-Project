@@ -9,7 +9,7 @@ The project has been developed and tested in Vivado, written in VHDL.
 
 -- The final relation (with images)
 
--- All the test benches
+-- All the test benches (with photos of the signals)
 
 -- Final grading
 
